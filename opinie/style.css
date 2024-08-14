@@ -1,0 +1,14 @@
+main {
+    width: 100%;
+}
+main h1{
+    text-align: center;
+}
+.rivuze{
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
